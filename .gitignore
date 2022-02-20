@@ -1,0 +1,10 @@
+*.zip
+*/venv
+*/sparkenv
+tp3/Apartado1/TP3-GalanLlanoJesus.pdf
+tp4/spark-bench_2.3.0_0.4.0-RELEASE_99
+tp4/mykeypair.pem
+tp4/TP4-GalanLlanoJesus.pdf
+*ipynb_checkpoints
+*checkpoint/
+*checkpoint_state/
