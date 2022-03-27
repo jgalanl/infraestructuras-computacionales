@@ -1,2 +1,0 @@
-﻿kafka-python
-pyspark
