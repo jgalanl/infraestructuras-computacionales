@@ -8,9 +8,9 @@ tp2.Spark/ejemplos-spark
 tp3/Apartado1/TP3-GalanLlanoJesus.pdf
 tp3.Streaming/TP3_2021_2022.pdf
 tp3.Streaming/demos
-tp4/spark-bench_2.3.0_0.4.0-RELEASE_99
-tp4/mykeypair.pem
-tp4/TP4-GalanLlanoJesus.pdf
+tp4.AWS/spark-bench_2.3.0_0.4.0-RELEASE_99
+tp4.AWS/mykeypair.pem
+tp4.AWS/TP4_2021_22.pdf
 *ipynb_checkpoints
 *checkpoint/
 *checkpoint_state/
